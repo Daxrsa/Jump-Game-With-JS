@@ -1,1 +1,1 @@
-# Jump-Game-With-JS
+Click anywhere to play
